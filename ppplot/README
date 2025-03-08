@@ -1,7 +1,4 @@
-ppplot_backup
-
-
-# Visualization and Plotting Instructions
+Plotting Instructions
 Linfeng Li 2/28/2024
 linfel@umich.edu
 
@@ -27,3 +24,5 @@ linfel@umich.edu
   - Users specify the input nc file, and time slices for taking the average. For plot_temp_wind_isobaric.py, specifying pressure index 
     is also needed.
   - The examples for averaging over time slices or getting any instantaneous time slice are given in the python script.
+
+
