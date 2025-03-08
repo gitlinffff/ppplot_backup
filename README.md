@@ -1,5 +1,5 @@
 # Visualization and Plotting Instructions
-Linfeng Li 2/28/2024
+Lateast modification: 3/8/2025
 linfel@umich.edu
 
 PPPlot is a collection of post-processing and visualization scripts designed to efficiently analyze and visualize scientific data.This repository is intended to streamline the workflow for climate science, planetary research, or other computational models requiring data interpretation.
@@ -18,5 +18,5 @@ PPPlot is a collection of post-processing and visualization scripts designed to 
 
 # Usage
 To plot zonal-mean variables such as temperature, pressure, density, velocity:
-python plot_x3mean_var.py your_netcdf_data.nc -v theta -r 12000000.
+'''python plot_x3mean_var.py your_netcdf_data.nc -v theta -r 12000000.
 
