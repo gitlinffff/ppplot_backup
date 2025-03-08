@@ -17,6 +17,12 @@ PPPlot is a collection of post-processing and visualization scripts designed to 
 - Matplotlib
 
 # Usage
-To plot zonal-mean variables such as temperature, pressure, density, velocity:
-'''python plot_x3mean_var.py your_netcdf_data.nc -v theta -r 12000000.
+To plot zonal-mean variables such as temperature, pressure, density, velocity in beta-plane Cartesian settings:
+```
+python plot_x3mean_var.py your_netcdf_data.nc -v theta -r 12000000.
+```
+To plot zonal-mean variables in Cubed Sphere Exo3 settings:
+```
+python plot_zonalmean_var.py your_netcdf_data.nc -v theta
+```
 
