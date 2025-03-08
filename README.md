@@ -26,3 +26,7 @@ To plot zonal-mean variables in Cubed Sphere Exo3 settings:
 python plot_zonalmean_var.py your_netcdf_data.nc -v theta
 ```
 
+# Example visualization of the atmosphere structure
+[View PDF Documentation](/asymmetry_poster.pdf)
+
+
